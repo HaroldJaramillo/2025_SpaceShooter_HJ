@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 210a27563c7e30f438d6794240cbb06c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4784202322916237429
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_0
+  - first:
+      213: -7262922229515094696
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_1
+  - first:
+      213: -4432856903972490776
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_2
+  - first:
+      213: 1377808394034942580
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_3
+  - first:
+      213: 2348165741358012193
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_4
+  - first:
+      213: 4459316242778777690
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_5
+  - first:
+      213: -6385483490318354644
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_6
+  - first:
+      213: 8123818551378197149
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_7
+  - first:
+      213: -4201220607738054426
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_8
+  - first:
+      213: 7451194338121321029
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_9
+  - first:
+      213: -2377126391719382549
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_10
+  - first:
+      213: -7479943215629322986
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_11
+  - first:
+      213: -4606605898347352065
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_12
+  - first:
+      213: -8221434476816753428
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_13
+  - first:
+      213: 3820920907135150903
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_14
+  - first:
+      213: -7610016568120381731
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_15
+  - first:
+      213: 7337425566091958210
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_16
+  - first:
+      213: -502792751897971420
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_17
+  - first:
+      213: -1685147600504411389
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_18
+  - first:
+      213: 7355239838512087075
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_19
+  - first:
+      213: 7393039912032038040
+    second: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 914
+        width: 408
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57065073aa6e46240800000000000000
+      internalID: 4784202322916237429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_1
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 861
+        width: 503
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855f67e76bae43b90800000000000000
+      internalID: -7262922229515094696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_2
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 856
+        width: 546
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1f492d1245b72c0800000000000000
+      internalID: -4432856903972490776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 164
+        width: 481
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47211073f65fe1310800000000000000
+      internalID: 1377808394034942580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_4
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 177
+        width: 440
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127d267fc4c569020800000000000000
+      internalID: 2348165741358012193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_5
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 602
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5865ff0f7ca2ed30800000000000000
+      internalID: 4459316242778777690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_6
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 580
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27f378e8943267a0800000000000000
+      internalID: -6385483490318354644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_7
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 199
+        width: 419
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a30ae3ee99db070800000000000000
+      internalID: 8123818551378197149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_8
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 580
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8f8b4cd1442b5c0800000000000000
+      internalID: -4201220607738054426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_9
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 570
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a8f1cb5c5f76760800000000000000
+      internalID: 7451194338121321029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_10
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 527
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be13c5b2420c20fd0800000000000000
+      internalID: -2377126391719382549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_11
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 471
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615325c9647e13890800000000000000
+      internalID: -7479943215629322986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_12
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 379
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff69c0a75c0210c0800000000000000
+      internalID: -4606605898347352065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_13
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 390
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec103107e897ed80800000000000000
+      internalID: -8221434476816753428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 281
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b67a82253a60530800000000000000
+      internalID: 3820920907135150903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 262
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddee85a304ac36690800000000000000
+      internalID: -7610016568120381731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_16
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 273
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7d7c05da5c3d560800000000000000
+      internalID: 7337425566091958210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_17
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 167
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425fa73f7a8b509f0800000000000000
+      internalID: -502792751897971420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_18
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 188
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b25d58f272d98e0800000000000000
+      internalID: -1685147600504411389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_19
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 177
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3208054d9af031660800000000000000
+      internalID: 7355239838512087075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_20
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 154
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c64f641aa599660800000000000000
+      internalID: 7393039912032038040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_0: 4784202322916237429
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_1: -7262922229515094696
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_10: -2377126391719382549
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_11: -7479943215629322986
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_12: -4606605898347352065
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_13: -8221434476816753428
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_14: 3820920907135150903
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_15: -7610016568120381731
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_16: 7337425566091958210
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_17: -502792751897971420
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_18: -1685147600504411389
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_19: 7355239838512087075
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_2: -4432856903972490776
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_20: 7393039912032038040
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_3: 1377808394034942580
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_4: 2348165741358012193
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_5: 4459316242778777690
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_6: -6385483490318354644
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_7: 8123818551378197149
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_8: -4201220607738054426
+      animacion-explosion-videojuegos-pixel-art-fotogramas-animacion-explosion_9: 7451194338121321029
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
