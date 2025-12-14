@@ -37,10 +37,12 @@ public class HUD : MonoBehaviour
     }
     public void WinLife(int i)
     {
-        Lifes[i].SetActive(true);
+        if (i >= 0 && i < Lifes.Length)
+            Lifes[i].SetActive(true);
     }
     public void WinShield(int i)
     {
-        Shield[i].SetActive(true);
+        if (i >= 0 && i < Shield.Length)
+            Shield[i].SetActive(true);
     }
 }

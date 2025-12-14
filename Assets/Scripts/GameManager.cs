@@ -9,7 +9,8 @@ public class GameManager : MonoBehaviour
     public int Totalpoints;
     public int ScorePoints;
     public int lifes = 4;
-    public int shield = 0;
+    public int shield = 1;
+    public bool hasShield;
 
     private void Awake()
     {
@@ -17,7 +18,8 @@ public class GameManager : MonoBehaviour
         {
             instance = this;
             DontDestroyOnLoad(gameObject);
-        } else
+        }
+        else
         {
             Destroy(gameObject);
         }
@@ -67,14 +69,16 @@ public class GameManager : MonoBehaviour
     }
     public void WinShield()
     {
+        hasShield = true;
         shield++;
+        PlayerShield.instance.ActivateShield();
 
         if (hud != null)
-            hud.WinShield(shield - 1);
+            hud.WinShield(shield);
     }
 
     public void PointsSpawnE(int i)
     {
-        ScorePoints = ScorePoints+i;
+        ScorePoints = ScorePoints + i;
     }
 }
